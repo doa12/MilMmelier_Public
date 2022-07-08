@@ -1,5 +1,5 @@
 # MilMmelier, Intro. 
-※ MilMmelier_Public은 기존의 MilMmelier repo를 private화 하여 새로 작성하였습니다.
+※ MilMmelier_Public은 기존의 MilMmelier repo를 private으로 돌림에 따라 새로 작성하였습니다.
 
 <br/>
 
