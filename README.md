@@ -1,9 +1,8 @@
 # MilMmelier_Public
 
-# milmmelier
 
 
-# 프로젝트 소개
+# milmmelier, 프로젝트 소개
 
 전국의 밀크티 맛집 10곳을 지도와 리뷰를 통해 만나보세요.
 
