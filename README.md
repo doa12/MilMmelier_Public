@@ -10,17 +10,19 @@
 
 <br/>
 
+#Project Development Period
+
+June 20th, 2022 ~ June 23rd, 2022 (about 63 hours)
+
+<br/>
+<br/>
+
 #[MilMmelier, WebPage](http://54.180.105.208/login)
 
 #[Demo of MilMmelier, Youtube](https://www.youtube.com/watch?v=5FVSqzKxk8o)
 
 #[Sketch of MilMmelier, Notion](https://www.notion.so/Chapter-1-7b453548af8341dc815f17033f44df72)
-<br/>
-<br/>
 
-#Project Development Period
-
-June 20th, 2022 ~ June 23rd, 2022 (about 63 hours)
 
 <br/>
 <br/>
