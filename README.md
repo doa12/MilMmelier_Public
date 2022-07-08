@@ -1,9 +1,11 @@
-# MilMmelier, Intro.
-
-전국의 밀크티 맛집 10곳을 지도와 리뷰를 통해 만나보세요.
+# MilMmelier, Intro. 
 
 <br/>
 
+#프로젝트 소개
+전국의 밀크티 맛집 10곳을 지도와 리뷰를 통해 만나보세요.
+
+<br/>
 
 #링크
 
@@ -30,7 +32,7 @@
 <br/>
 <br/>
 
-# 개발툴
+# Info.
 
 -   Server: AWS EC2 
 -   Framework: Flask (Python)
@@ -41,9 +43,9 @@
 <br/>
 <br/>
 
-# 팀원
+# Role
 
--   이동현
+-   이동현 - 코드 취합, 
 -   김다흰
 -   김종현
 
