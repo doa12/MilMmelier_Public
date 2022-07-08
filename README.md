@@ -47,7 +47,7 @@
 <br/>
 <br/>
 
-# 개인 회고
+# Personal Memoirs of a Project
 
 이번 부트캠프를 통해서 처음 코딩을 접했지만 무사히 맛집지도 기능구현에 성공했다.
 
