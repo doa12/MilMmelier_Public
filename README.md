@@ -10,11 +10,11 @@
 
 <br/>
 
-#[MilMmelier, Web](http://54.180.105.208/login)
+#[MilMmelier, WebPage](http://54.180.105.208/login)
 
 #[Demo of MilMmelier, Youtube](https://www.youtube.com/watch?v=5FVSqzKxk8o)
 
-#[Sketch of MilMmelier](https://www.notion.so/Chapter-1-7b453548af8341dc815f17033f44df72)
+#[Sketch of MilMmelier, Notion](https://www.notion.so/Chapter-1-7b453548af8341dc815f17033f44df72)
 <br/>
 <br/>
 
