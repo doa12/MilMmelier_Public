@@ -41,9 +41,9 @@
 
 # Role
 
--   이동현 - 코드 취합(Jinja2), 리뷰페이지, DB관리
--   김다흰 - 맛집지도 페이지(지도API/맛집마커/북마크/맛집크롤링), Banner/Icon/Meta디자인
--   김종현 - 메인페이지, 로그인/회원가입(JWT), Theme Color 구상, 맛집지도 마커에러 해결
+-   sche - 코드 취합(Jinja2), 리뷰페이지, DB관리
+-   doa12 - 맛집지도 페이지(지도API/맛집마커/북마크/맛집크롤링), Banner/Icon/Meta디자인
+-   jonghyeon - 메인페이지, 로그인/회원가입(JWT), Theme Color 구상, 맛집지도 마커에러 해결
 
 <br/>
 <br/>
