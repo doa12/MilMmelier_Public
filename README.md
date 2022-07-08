@@ -27,18 +27,18 @@ June 20th, 2022 ~ June 23rd, 2022 (about 63 hours)
 <br/>
 <br/>
 
-# Info.
+# Development Info.
 
 -   Server: AWS EC2 
 -   Framework: Flask (Python)
 -   Database: MongoDB
--   View : HTML5, CSS3, Javascript
+-   View : HTML5, CSS3, JavaScript
 -   Tool : Git, Notion
 
 <br/>
 <br/>
 
-# Role
+# Development Mission
 
 -   sche
 
